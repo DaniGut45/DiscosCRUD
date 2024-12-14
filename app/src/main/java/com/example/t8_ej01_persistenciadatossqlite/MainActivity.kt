@@ -83,6 +83,7 @@ class MainActivity : AppCompatActivity() {
     private fun clearEditTexts() {
         etNombre.text.clear()
         etAnio.text.clear()
+
     }
 
     // Método para seleccionar un disco de la lista y cargarlo en los campos para actualizar o eliminar
